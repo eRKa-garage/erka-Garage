@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erka-garage.github.io/erka-Garage/sitemap.xml
